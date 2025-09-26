@@ -1,0 +1,8 @@
+config BR2_PACKAGE_ALAHASSINE
+	bool "alahassine"
+	help
+	  A Simple Bit Manipulation Utility Package For Buildroot.
+	  
+	  This Package Provides Functions To Set, Clear, And Toggle 
+	  Bits In Integers With A Demonstration Program.
+
